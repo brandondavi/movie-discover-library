@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie-discover-library/static/css/main.dcbc65b4.css",
+    "main.js": "/movie-discover-library/static/js/main.b2e2ccdd.js",
+    "static/js/453.e9e7ec89.chunk.js": "/movie-discover-library/static/js/453.e9e7ec89.chunk.js",
+    "index.html": "/movie-discover-library/index.html",
+    "main.dcbc65b4.css.map": "/movie-discover-library/static/css/main.dcbc65b4.css.map",
+    "main.b2e2ccdd.js.map": "/movie-discover-library/static/js/main.b2e2ccdd.js.map",
+    "453.e9e7ec89.chunk.js.map": "/movie-discover-library/static/js/453.e9e7ec89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcbc65b4.css",
+    "static/js/main.b2e2ccdd.js"
+  ]
+}
